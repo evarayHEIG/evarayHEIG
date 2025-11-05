@@ -28,7 +28,7 @@ I obtained the top grade 6/6 for my Bachelor’s thesis, where I developed a pla
 * **Deployment**: All databases deployed on a VM in isolated environments, using Docker for consistency and reproducibility.
 * **Detailed comparative analysis**: Studied the impact of query writing, read and interpreted execution plans, analyzed join algorithms, and assessed the effect of indexing on performance.
 
-[**➡️ View Project Hub on GitHub**](https://github.com/evarayHEIG/tb-benchmark) **|** [**➡️ Read the Report**](https://github.com/evarayHEIG/tb-benchmark/blob/main/doc/report.pdf)
+[**➡️ View Project on GitHub**](https://github.com/evarayHEIG/tb-benchmark) **|** [**➡️ Read the Report**](https://github.com/evarayHEIG/tb-benchmark/blob/main/doc/report.pdf)
 
 ### 🌱 PlantKeeper: Plant Management Application using IoT
 
