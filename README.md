@@ -48,7 +48,7 @@ This project simulates an ant colony using the Mesa library, allowing users to v
 
 [**➡️ View Project on GitHub**](https://github.com/Sainane/PLM_Project)
 
-### Flowers Recognition Using CNN
+### 🌼 Flowers Recognition Using CNN
 
 This project focuses on classifying different types of flowers (Rose, Buttercup, Nigella, Lavender, Dandelion, Daisy) using Convolutional Neural Networks and transfer learning with MobileNetV2. The dataset was carefully constructed by combining 30 images per class collected from the web with 30 photos taken manually, resulting in a balanced set of 60 images per class. After preprocessing and augmentation, the model was trained by freezing MobileNetV2’s convolutional base and adding a dense output layer, achieving an overall F1-score of 0.9576 on the test set.
 
